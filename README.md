@@ -63,7 +63,7 @@ Here are some visual examples of the theme in action:
     ![Web-View](assets/pic-for-readme/Web-View.png)  
     *Web View Example*
 
-    ![Tablet-view](assets/pic-for-readme/Tablet-View.png)  
+    ![Tablet-view](assets/pic-for-readme/Tablet-view.png)  
     *Tablet View Example*
 
     ![Mobile-view](assets/pic-for-readme/Mobile-view.png)  
@@ -81,7 +81,7 @@ Here are some visual examples of the theme in action:
 
 - **Single Post Type**
 
-    ![Single-Post](assets/pic-for-readme/Single-Post-page.png)  
+    ![Single-Post](assets/pic-for-readme/Single-Post.png)  
     *Single Post Page Example*
 
 ---
