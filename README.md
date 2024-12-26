@@ -8,24 +8,9 @@ This project is a custom-built WordPress theme designed to offer a clean, modern
 
 - **Responsive Design**: The theme is fully responsive, ensuring a seamless experience across desktop, tablet, and mobile devices. Media queries and Tailwind CSS utilities are used to handle responsiveness.
 
-    ![Web-View](assets/pic-for-readme/Web-View.png)  
-    *Web View Example*
-
-    ![Tablet-view](assets/pic-for-readme/Tablet-view.png)  
-    *Tablet View Example*
-
-    ![Mobile-view](assets/pic-for-readme/Mobile-view.png)  
-    *Mobile View Example*
-
 - **Custom Post Types**: A custom post type (CPT) for portfolios has been integrated. This allows users to display individual projects with custom fields such as project description, image galleries, and more.
 
-    ![CPT_Custom-Portfolio](assets/pic-for-readme/CPT_Custom-Portfolio.png)  
-    *Custom Portfolio Post Type Example*
-
 - **Category Grid**: Categories are dynamically displayed in a grid with images and descriptions, offering a visually appealing way to explore different content types. The category images are added using the ACF plugin, which allows administrators to easily upload images for each category.
-
-    ![Custom-Category-page](assets/pic-for-readme/Custom-Category-page.png)  
-    *Category Page with Custom Images from ACF*
 
 - **Custom Fields Integration**: Using Advanced Custom Fields (ACF) or Secure Custom Fields (SCF), the theme includes a custom image field for WordPress's built-in categories, allowing each category to have a unique image associated with it, which can be displayed dynamically on category archive pages.
 
@@ -68,3 +53,33 @@ This project is a custom-built WordPress theme designed to offer a clean, modern
 4. **Set up Category Images**: Go to the **Categories** section in WordPress, and for each category, use ACF to upload images.
 
 ---
+
+## Images
+
+Here are some visual examples of the theme in action:
+
+- **Responsive Design**
+
+    ![Web-View](assets/pic-for-readme/Web-View.png)  
+    *Web View Example*
+
+    ![Tablet-view](assets/pic-for-readme/Tablet-view.png)  
+    *Tablet View Example*
+
+    ![Mobile-view](assets/pic-for-readme/Mobile-view.png)  
+    *Mobile View Example*
+
+- **Custom Post Types (CPT) for Portfolios**
+
+    ![CPT_Custom-Portfolio](assets/pic-for-readme/CPT_Custom-Portfolio.png)  
+    *Custom Portfolio Post Type Example*
+
+- **Category Grid and Custom Images from ACF**
+
+    ![Custom-Category-page](assets/pic-for-readme/Custom-Category-page.png)  
+    *Category Page with Custom Images from ACF*
+
+---
+
+This structure ensures the images are placed at the end of the document, keeping the content clean and readable while still showcasing your project visually.
+g
