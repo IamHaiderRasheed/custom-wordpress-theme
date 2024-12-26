@@ -63,7 +63,7 @@ Here are some visual examples of the theme in action:
     ![Web-View](assets/pic-for-readme/Web-View.png)  
     *Web View Example*
 
-    ![Tablet-view](assets/pic-for-readme/Tablet-view.png)  
+    ![Tablet-view](assets/pic-for-readme/Tablet-View.png)  
     *Tablet View Example*
 
     ![Mobile-view](assets/pic-for-readme/Mobile-view.png)  
@@ -71,7 +71,7 @@ Here are some visual examples of the theme in action:
 
 - **Custom Post Types (CPT) for Portfolios**
 
-    ![CPT_Custom-Portfolio](assets/pic-for-readme/CPT_Custom-Portfolio.png)  
+    ![CPT_Custom-Portfolio](assets/pic-for-readme/CPT_Custom-Portfolio-type.png)  
     *Custom Portfolio Post Type Example*
 
 - **Category Grid and Custom Images from ACF**
@@ -79,7 +79,9 @@ Here are some visual examples of the theme in action:
     ![Custom-Category-page](assets/pic-for-readme/Custom-Category-page.png)  
     *Category Page with Custom Images from ACF*
 
----
+- **Single Post Type**
 
-This structure ensures the images are placed at the end of the document, keeping the content clean and readable while still showcasing your project visually.
-g
+    ![Single-Post](assets/pic-for-readme/Single-Post-page.png)  
+    *Single Post Page Example*
+
+---
