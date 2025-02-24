@@ -59,4 +59,6 @@ function add_portfolio_current_class( $classes, $item ) {
 }
 
 require_once get_template_directory() . '/inc/portfolio-cpt.php';
+require_once get_template_directory() . '/inc/meta-boxes.php';
+
 ?>
