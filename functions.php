@@ -13,7 +13,7 @@ function sv_theme_scripts() {
         true
     );
     wp_enqueue_script('gallery-script');
-    
+    wp_enqueue_script('jquery');    
 }
 add_action( 'wp_enqueue_scripts', 'sv_theme_scripts' );
 
@@ -46,6 +46,16 @@ function footer_widget_init() {
         'before_title'  => '<h3 class="text-lg font-semibold mb-4">',
         'after_title'   => '</h3>',
     ));
+
+    
+    register_sidebar([
+        'name'          => __('Single Portfolio Post Widget Area', 'textdomain'),
+        'id'            => 'single-portfolio-post-widget',
+        'before_widget' => '<div class="single-post-widget">',
+        'after_widget'  => '</div>',
+        'before_title'  => '<h3 class="widget-title">',
+        'after_title'   => '</h3>',
+    ]);
 }
 add_action('widgets_init', 'footer_widget_init');
 
@@ -60,5 +70,13 @@ function add_portfolio_current_class( $classes, $item ) {
 
 require_once get_template_directory() . '/inc/portfolio-cpt.php';
 require_once get_template_directory() . '/inc/meta-boxes.php';
+require_once get_template_directory() . '/inc/custom-taxonomies.php';
+require_once get_template_directory() . '/inc/taxonomy-meta.php';
+require_once get_template_directory() . '/inc/admin-columns-portfolio.php';
+require_once get_template_directory() . '/inc/custom-contact-widget.php';
+require get_theme_file_path('inc/portfolio-ajax-search.php');
+
+
+
 
 ?>

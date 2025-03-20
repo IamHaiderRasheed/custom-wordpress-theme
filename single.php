@@ -51,7 +51,12 @@ get_header(); // Include the header template
         echo '<p>No content found.</p>';
     endif;
     ?>
+    
+   
+
+
 </div>
+
 
 <?php
 get_footer(); // Include the footer template
