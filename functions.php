@@ -76,6 +76,8 @@ require_once get_template_directory() . '/inc/admin-columns-portfolio.php';
 require_once get_template_directory() . '/inc/custom-contact-widget.php';
 require get_theme_file_path('inc/portfolio-ajax-search.php');
 
+// Load custom portfolio form AJAX handler
+require_once get_template_directory() . '/inc/portfolio-form-handler.php';
 
 
 

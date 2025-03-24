@@ -1,4 +1,4 @@
-<?php get_header(); echo "haider" ?>
+<?php get_header();?>
 
 <div class="main-content container mx-auto p-4">
 

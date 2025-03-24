@@ -37,8 +37,8 @@
 
         <!-- Sign In and Download Buttons -->
         <div class="hidden lg:flex items-center gap-2 h-full">
-            <a href="<?php echo esc_url( wp_login_url() ); ?>" class="bg-black border text-white rounded-md h-full flex items-center px-4">Sign In</a>
-            <a href="/download" class="bg-blue-600 text-white rounded-md h-full flex items-center px-4">Download</a>
+            <a href="http://yakuzabhai.local/login/" class="bg-black border text-white rounded-md h-full flex items-center px-4">Sign In</a>
+            <a href="http://yakuzabhai.local/submit-portfolio/"  class="bg-blue-600 text-white rounded-md h-full flex items-center px-4">Submit a Post</a>
         </div>
 
         <!-- Mobile Hamburger Icon -->
